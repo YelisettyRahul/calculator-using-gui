@@ -1,0 +1,13 @@
+from tkinter import *
+
+root =Tk()
+
+Label(root,text="enter your name").grid(row = 0,column = 0)
+
+
+
+
+
+
+
+root.mainloop()
